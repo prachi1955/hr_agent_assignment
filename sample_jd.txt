@@ -1,0 +1,34 @@
+Job Title: Python Backend Developer
+
+Company: TechCorp Solutions
+Experience: 3-5 Years
+
+Key Responsibilities:
+- Design and build RESTful APIs using Django or FastAPI
+- Manage databases — PostgreSQL, Redis
+- Deploy services on AWS
+- Write unit tests using pytest
+- Collaborate with frontend and DevOps teams
+
+Required Skills:
+- Python
+- Django
+- FastAPI
+- PostgreSQL
+- REST API
+- Git
+- AWS
+
+Preferred Skills:
+- Docker
+- Kubernetes
+- Redis
+- Celery
+- pytest
+- CI/CD
+
+Education:
+- B.Tech in Computer Science or related field
+
+Certifications (Preferred):
+- AWS Certified Developer

@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>HR Shortlist Report</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f4f6f9; color: #1a1a2e; padding: 40px; }
+  h1 { font-size: 2rem; margin-bottom: 6px; }
+  .meta { color: #666; font-size: 0.9rem; margin-bottom: 30px; }
+  .jd-box { background: #fff; border-left: 4px solid #4361ee; padding: 16px 20px; border-radius: 8px; margin-bottom: 30px; }
+  .jd-box h2 { font-size: 1.1rem; color: #4361ee; margin-bottom: 8px; }
+  .card { background: #fff; border-radius: 12px; padding: 24px; margin-bottom: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.07); }
+  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+  .rank-badge { background: #4361ee; color: white; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+  .name { font-size: 1.25rem; font-weight: 700; }
+  .email { color: #888; font-size: 0.85rem; }
+  .total { font-size: 1.8rem; font-weight: 800; color: #4361ee; }
+  .rec { padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; }
+  .HIRE { background: #d4edda; color: #155724; }
+  .MAYBE { background: #fff3cd; color: #856404; }
+  .NO-HIRE { background: #f8d7da; color: #721c24; }
+  .dims { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 16px; }
+  .dim { background: #f8f9ff; border-radius: 8px; padding: 12px; border-left: 3px solid #4361ee; }
+  .dim-name { font-size: 0.7rem; text-transform: uppercase; color: #888; }
+  .dim-score { font-size: 1.4rem; font-weight: 800; }
+  .dim-just { font-size: 0.78rem; color: #555; margin-top: 4px; }
+  .bar-bg { background: #e9ecef; border-radius: 4px; height: 6px; margin-top: 6px; }
+  .bar { background: #4361ee; height: 6px; border-radius: 4px; }
+  .summary { font-style: italic; color: #666; font-size: 0.88rem; margin-top: 4px; }
+  footer { text-align: center; color: #aaa; font-size: 0.8rem; margin-top: 40px; }
+</style>
+</head>
+<body>
+<h1>📋 HR Shortlist Report</h1>
+<p class="meta">Generated: 14 May 2026, 12:19 PM | Job: <strong>Python Developer</strong> | 1 candidate(s)</p>
+
+<div class="jd-box">
+  <h2>Job Requirements</h2>
+  <p><strong>Domain:</strong> Data Science / AI | <strong>Min Experience:</strong> 0 yrs | <strong>Education:</strong> Bachelor's Degree</p>
+  <p style="margin-top:6px;"><strong>Required Skills:</strong> python, go, flask, aws, git, rest api, machine learning</p>
+</div>
+
+
+<div class="card">
+  <div class="card-header">
+    <div style="display:flex;align-items:center;gap:14px;">
+      <div class="rank-badge">#1</div>
+      <div>
+        <div class="name">Prachi Chetan Padodara</div>
+        <div class="email">prachi.padodara.19@gmail.com | tmptrt5jtpc.docx</div>
+        <div class="summary">Prachi Chetan Padodara | 0 yrs exp | Skills: python, java, javascript, mysql</div>
+      </div>
+    </div>
+    <div style="text-align:right;">
+      <div class="total">6.75/10</div>
+      <span class="rec MAYBE">MAYBE</span>
+    </div>
+  </div>
+  <div class="dims">
+    
+    <div class="dim">
+      <div class="dim-name">Skills Match (30%)</div>
+      <div class="dim-score">6/10</div>
+      <div class="bar-bg"><div class="bar" style="width:60%"></div></div>
+      <div class="dim-just">Matched 57% of required skills — decent overlap. [HR OVERRIDE: not suitable] [HR OVERRIDE: not suitable]</div>
+    </div>
+    
+    <div class="dim">
+      <div class="dim-name">Experience (25%)</div>
+      <div class="dim-score">9/10</div>
+      <div class="bar-bg"><div class="bar" style="width:90%"></div></div>
+      <div class="dim-just">0 yrs in matching domain — strong fit.</div>
+    </div>
+    
+    <div class="dim">
+      <div class="dim-name">Education (15%)</div>
+      <div class="dim-score">6/10</div>
+      <div class="bar-bg"><div class="bar" style="width:60%"></div></div>
+      <div class="dim-just">Bachelor's degree — meets minimum requirement.</div>
+    </div>
+    
+    <div class="dim">
+      <div class="dim-name">Projects (20%)</div>
+      <div class="dim-score">6/10</div>
+      <div class="bar-bg"><div class="bar" style="width:60%"></div></div>
+      <div class="dim-just">2 project references found — moderate portfolio.</div>
+    </div>
+    
+    <div class="dim">
+      <div class="dim-name">Communication (10%)</div>
+      <div class="dim-score">6/10</div>
+      <div class="bar-bg"><div class="bar" style="width:60%"></div></div>
+      <div class="dim-just">Resume has adequate length and structure.</div>
+    </div>
+    
+  </div>
+</div>
+
+<footer>HR Shortlisting Agent — AI-assisted, human-reviewed</footer>
+</body>
+</html>

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-05-14T12:19:06.082413",
+    "candidate": "Prachi Chetan Padodara",
+    "dimension": "skills_match",
+    "old_score": 6,
+    "new_score": 6,
+    "reason": "not suitable",
+    "new_total": 6.75
+  },
+  {
+    "timestamp": "2026-05-14T12:19:07.732835",
+    "candidate": "Prachi Chetan Padodara",
+    "dimension": "skills_match",
+    "old_score": 6,
+    "new_score": 6,
+    "reason": "not suitable",
+    "new_total": 6.75
+  }
+]

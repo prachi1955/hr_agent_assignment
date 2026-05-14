@@ -1,0 +1,50 @@
+{
+  "jd": {
+    "job_title": "Python Developer",
+    "required_skills": [
+      "python",
+      "go",
+      "flask",
+      "aws",
+      "git",
+      "rest api",
+      "machine learning"
+    ],
+    "preferred_skills": [],
+    "min_experience_years": 0,
+    "education_requirement": "Bachelor's Degree",
+    "certifications": [],
+    "domain": "Data Science / AI"
+  },
+  "candidates": [
+    {
+      "candidate_name": "Prachi Chetan Padodara",
+      "candidate_file": "tmptrt5jtpc.docx",
+      "candidate_email": "prachi.padodara.19@gmail.com",
+      "candidate_summary": "Prachi Chetan Padodara | 0 yrs exp | Skills: python, java, javascript, mysql",
+      "skills_match": {
+        "score": 6,
+        "justification": "Matched 57% of required skills \u2014 decent overlap."
+      },
+      "experience_relevance": {
+        "score": 9,
+        "justification": "0 yrs in matching domain \u2014 strong fit."
+      },
+      "education_certs": {
+        "score": 6,
+        "justification": "Bachelor's degree \u2014 meets minimum requirement."
+      },
+      "project_portfolio": {
+        "score": 6,
+        "justification": "2 project references found \u2014 moderate portfolio."
+      },
+      "communication_quality": {
+        "score": 6,
+        "justification": "Resume has adequate length and structure."
+      },
+      "weighted_total": 6.75,
+      "hire_recommendation": "MAYBE",
+      "rank": 1
+    }
+  ]
+}
