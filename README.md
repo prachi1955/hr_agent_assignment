@@ -60,3 +60,6 @@ hr_assignment/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+# DEMO VIDEO
+https://drive.google.com/file/d/1NKCjCXTWVmsPP0w2juWU4W7lfeVP4JH-/view?usp=sharing
