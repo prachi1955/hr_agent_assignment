@@ -21,6 +21,10 @@ The application:
 The project is fully rule-based and does not require API keys.
 
 ---
+# DEMO VIDEO 
+https://drive.google.com/file/d/1NKCjCXTWVmsPP0w2juWU4W7lfeVP4JH-/view?usp=sharing
+
+---
 
 # 🛠️ Tech Stack
 
@@ -61,5 +65,4 @@ hr_assignment/
 ├── requirements.txt
 └── README.md
 
-# DEMO VIDEO
-https://drive.google.com/file/d/1NKCjCXTWVmsPP0w2juWU4W7lfeVP4JH-/view?usp=sharing
+
